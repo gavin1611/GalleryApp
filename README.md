@@ -1,6 +1,6 @@
-The Gallery View Application which integrates with Facebook SDK 5 which authenticates the user and redirects the user to the index.php which displays a list of albums on click on an album the user can view all the photos for the particular album.
+The Gallery View Application integrates with Facebook SDK 5 which authenticates the user and redirects the user to the index.php. This displays a list of albums on click on an album the user can view all the photos for the particular album.
 
-Facebook API service was chosen as SDK is ready to implement and I ahve worked with Facebook SDK 4.0 before so that justifies my reason for choosing it over other cloud service.
+Facebook API service was chosen as SDK is ready to implement and I have worked with Facebook SDK 4.0 before so that justifies my reason for choosing it over other cloud service.
 
 The application successfully authenticates the user but there are a few errors on retrieval of images from Facebook. I have not been able to make run error-free. I would be happy to complete the assignment if I would have had a few more hours.
 
