@@ -41,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="247" lean-forward="false" selection-start-line="14" selection-start-column="247" selection-end-line="14" selection-end-column="247" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -276,12 +276,12 @@
       <updated>1499981845824</updated>
       <workItem from="1499981847736" duration="697000" />
       <workItem from="1500007238847" duration="4115000" />
-      <workItem from="1500015169813" duration="1793000" />
+      <workItem from="1500015169813" duration="2073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6605000" />
+    <option name="totallyTimeSpent" value="6885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -403,8 +403,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="247" lean-forward="false" selection-start-line="14" selection-start-column="247" selection-end-line="14" selection-end-column="247" />
             <folding />
           </first_editor>
           <second_editor />
